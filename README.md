@@ -7,7 +7,7 @@
 
 <img  src = "https://github.com/inesarruda/Analise-Exploratoria-Exoplanetas/assets/112672449/9da7a3ed-d2d3-40d2-8cff-8c9e6f449392" width= "300px"/>
 
-## Ao longo do notebook foram realizadas diversas análises, dentre elas:
+## Ao longo do notebook foram realizadas diversas análises, podemos citar algumas:
 
 * Os tipos dos dados
 * Valores Nulos
