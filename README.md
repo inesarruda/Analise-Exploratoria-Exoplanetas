@@ -19,9 +19,9 @@
 * Relação Período Orbital x Massa do Planeta
 
 ##  Análise da quantidade de Exoplanetas descobertos por cada método
-<img  src = "https://github.com/inesarruda/Analise-Exploratoria-Exoplanetas/assets/112672449/e65fac9c-fb3e-4a72-ba30-715f56023769" width= "600px"/>
+<img  src = "https://github.com/inesarruda/Analise-Exploratoria-Exoplanetas/assets/112672449/e65fac9c-fb3e-4a72-ba30-715f56023769" width= "800px"/>
 
 ## Mapa de Exoplanetas descobertos
-<img  src = "https://github.com/inesarruda/Analise-Exploratoria-Exoplanetas/assets/112672449/a03a8f44-9eed-4dae-ab2c-71cffa7276b4" width= "600px"/>
+<img  src = "https://github.com/inesarruda/Analise-Exploratoria-Exoplanetas/assets/112672449/a03a8f44-9eed-4dae-ab2c-71cffa7276b4" width= "800px"/>
 
 ## Os gráficos acima são apenas uma pequena demonstração. O notebook está bastante completo, com diversas análises e observações.
